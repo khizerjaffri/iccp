@@ -1,0 +1,13 @@
+body{
+  background: url(https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif)no-repeat center center fixed;
+  background-size: cover;
+}
+p{
+  color:#800000;
+}
+H3{
+  color:#800000;
+}
+p #2{
+color: blue
+}
